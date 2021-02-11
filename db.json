@@ -1,0 +1,18 @@
+{
+  "cats": [
+    {
+      "id": 0,
+      "name": "Fluffy",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg",
+      "description": "a happy relaxed cat",
+      "likes": ["naps", "cheese", "petting"]
+    },
+    {
+      "id": 1,
+      "name": "Cuddles",
+      "image": "https://static.scientificamerican.com/sciam/cache/file/92E141F8-36E4-4331-BB2EE42AC8674DD3_source.jpg",
+      "description": "a spunky cat",
+      "likes": ["running", "jumping", "meowing"]
+    }
+  ]
+}

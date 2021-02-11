@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "name": "cat-api",
+  "description": "a simple api to display cat images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haase1020/cat-api.git"
+  },
+  "author": "Mandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haase1020/cat-api/issues"
+  },
+  "homepage": "https://github.com/haase1020/cat-api#readme"
 }
